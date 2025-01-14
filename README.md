@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-"https://imgur.com/asEkLn1.gif"
+![Funny GIF](https://i.imgur.com/asEkLn1.gif)
 
 <!--
 **DarioJara/DarioJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
